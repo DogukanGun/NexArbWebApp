@@ -1,7 +1,7 @@
 const CustomNavbar = () => {
     return (
         <nav className="bg-white bg-transparent dark:bg-transparent mb-10 mt-10">
-            <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+            <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto">
                 <a href="https://flowbite.com/" className="flex items-center">
                     <img
                         src="https://file.rendit.io/n/otcgaTl5k7sIa8AuzP41.svg"
